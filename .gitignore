@@ -35,6 +35,11 @@ LAPACKE/example/xexample*
 # SED
 SRC/*-e
 LAPACKE/src/*-e
+BUILD
+Build
+build
+BUILD*
+Build*
 build*
 
 # DOCS documentation
